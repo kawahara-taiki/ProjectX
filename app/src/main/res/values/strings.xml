@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">カード登録</string>
+    <string name="tv_mail">メールアドレス</string>
+    <string name="tv_name">氏名</string>
+    <string name="tv_belonging">所属</string>
+
+    <string name="tv_hello">Hello</string>
+
+    <string name="dialog_title">エラー</string>
+    <string name="dialog_msg">エラーメッセージ（あとで記述）</string>
+    <string name="dialog_btn_close">閉じる</string>
+</resources>
